@@ -20,7 +20,7 @@ function App() {
           </li>
         </ul>
       </nav>
-
+      <h1>Akshita's Project</h1>
       <div className="container">
         <Routes>
           <Route path="/" element={<Jsx />}></Route>
